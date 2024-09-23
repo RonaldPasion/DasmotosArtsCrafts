@@ -1,0 +1,11 @@
+* {
+    font-family: Helvetica;
+}
+
+#title {
+    background-image: url("./images/pattern.jpg");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
